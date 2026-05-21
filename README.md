@@ -50,6 +50,7 @@ git clone https://github.com/andreysilva018/AppImobiliariaAndroid.git
 ```
 
 📂 Estrutura do Projeto:
+```
 AppImobiliariaAndroid/
 ├── app/
 │   ├── src/
@@ -67,6 +68,7 @@ AppImobiliariaAndroid/
 │   │   │   │   ├── drawable/
 │   │   │   │   ├── values/
 │   │   │   ├── AndroidManifest.xml
+```
 
 📸 Screenshots:
 <img width="720" height="1600" alt="tela-inicial" src="https://github.com/user-attachments/assets/28fc2463-1755-4db1-83ab-6e524e3604a4" />
@@ -86,7 +88,7 @@ Autor:
 - Desenvolvido por Andrey Vinícius.
 - GitHub: https://github.com/andreysilva018
 - LinkedIn: www.linkedin.com/in/andrey-ssilva
-Portfólio: https://andreyportifolio.netlify.app/ 
+- Portfólio: https://andreyportifolio.netlify.app/ 
 
 Agradecimentos:
 - Obrigado por visualizar este projeto! 🚀
